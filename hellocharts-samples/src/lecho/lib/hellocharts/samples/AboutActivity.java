@@ -17,6 +17,10 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 //sdsfsd
+
+/**
+ *
+ */
 public class AboutActivity extends ActionBarActivity {
     public static final String TAG = AboutActivity.class.getSimpleName();
     public static final String GITHUB_URL = "github.com/lecho/hellocharts-android";
